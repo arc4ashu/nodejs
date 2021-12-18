@@ -15,17 +15,17 @@ create a folder using command prompt:
 > create a notepad file index.js
   add the below code 
   ------------------------------------
-  const express = require('express')
-  const app = express()
-  const port = 3000
-
-  app.get('/', (req, res) => {
-    res.send('Hello World!')
-  })
-
-  app.listen(port, () => {
-    console.log(`Example app listening at http://localhost:${port}`)
-  })
+  const express = require('express') <br>
+  const app = express() <br>
+  const port = 3000 <br>
+<br>
+  app.get('/', (req, res) => { <br>
+    res.send('Hello World!') <br>
+  }) <br>
+<br>
+  app.listen(port, () => { <br>
+    console.log(`Example app listening at http://localhost:${port}`) <br>
+  }) <br>
   ------------------------------
 > npm init
 [provide the basic info]
