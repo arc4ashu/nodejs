@@ -3,16 +3,16 @@
 Install Node JS : Download latest Software from -> https://nodejs.org/en/download/
 =====================
 Aftall installation check the below command for Instalation validation
->node --version
-or
->node
-------------------------
-First Node JS Example
------
+>node --version <br/>
+or <br/>
+>node <br/>
+------------------------ <br/>
+First Node JS Example <br/>
+----- <br/>
 create a folder using command prompt:  <br>
 > mkdir myfirsapp <br>
 > cd myfirstapp <br>
-> create a notepad file index.js <br>
+> create a file with name index.js <br>
   add the below code  <br>
   ------------------------------------
   <h5>
