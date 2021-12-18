@@ -9,11 +9,11 @@ or
 ------------------------
 First Node JS Example
 -----
-create a folder using command prompt: 
-> mkdir myfirsapp
-> cd myfirstapp
-> create a notepad file index.js
-  add the below code 
+create a folder using command prompt:  <br>
+> mkdir myfirsapp <br>
+> cd myfirstapp <br>
+> create a notepad file index.js <br>
+  add the below code  <br>
   ------------------------------------
   <h5>
   const express = require('express') <br>
@@ -28,19 +28,21 @@ create a folder using command prompt:
     console.log(`Example app listening at http://localhost:${port}`) <br>
   }) <br>
   </h5>
-  ------------------------------
-> npm init
-[provide the basic info]
-package name: (basic-rest-example) 
-version: (1.0.0) 
-description: basic example
-entry point: (index.js) 
-test command: 
-git repository: 
-keywords: 
-author: 
-license: (ISC) 
-> npm install express --save
-open the URL (http://localhost:3000) in prower
+  ------------------------------ <br>
+  <h7>
+> npm init <br>
+[provide the basic info] <br>
+package name: (basic-rest-example) <br>
+version: (1.0.0)  <br>
+description: basic example <br>
+entry point: (index.js)  <br>
+test command:  <br>
+git repository: <br>
+keywords: <br>
+author: <br>
+license: (ISC) <br>
+> npm install express --save<br>
+open the URL (http://localhost:3000) in prower<br>
+  </h7>
 
 
