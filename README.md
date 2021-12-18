@@ -42,6 +42,7 @@ keywords: <br>
 author: <br>
 license: (ISC) <br>
 > npm install express --save<br>
+> node index.js <br/>
 open the URL (http://localhost:3000) in broweser<br>
   </h7>
 
