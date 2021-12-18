@@ -15,6 +15,7 @@ create a folder using command prompt:
 > create a notepad file index.js
   add the below code 
   ------------------------------------
+  <h5>
   const express = require('express') <br>
   const app = express() <br>
   const port = 3000 <br>
@@ -26,6 +27,7 @@ create a folder using command prompt:
   app.listen(port, () => { <br>
     console.log(`Example app listening at http://localhost:${port}`) <br>
   }) <br>
+  </h5>
   ------------------------------
 > npm init
 [provide the basic info]
